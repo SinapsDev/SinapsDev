@@ -1,3 +1,5 @@
-Discord: Sinaps#6442
-FiveM Developer
-I can do JS, Lua, React JS
+- Computer science student in Al Akhawayn University 🎓
+- Full stack web developer
+- FiveM developer
+- CO-founder of: https://pluton-webstore.tebex.io/
+- Founder of: https://pixel-scripts.tebex.io/
