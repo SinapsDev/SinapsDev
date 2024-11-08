@@ -1,4 +1,4 @@
-<h4 align="left">🎓Computer science student in Al Akhawayn University<br> 🖥️Self taught web developer<br>🎮 FiveM resource developer<br>👨‍💼 Co-founder of: pluton-webstore.tebex.io<br>👨‍💼 Founder of: pixel-scripts.tebex.io</h4>
+<h4 align="left">🎓Computer science student at Al Akhawayn University<br> 🖥️Self taught web developer<br>🎮 FiveM resource developer<br>👨‍💼 Co-founder of: pluton-webstore.tebex.io<br>👨‍💼 Founder of: pixel-scripts.tebex.io</h4>
 
 ###
 
