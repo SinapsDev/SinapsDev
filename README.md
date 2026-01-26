@@ -1,4 +1,4 @@
-<h4 align="left">🎓Computer science student at Al Akhawayn University<br> 🖥️Self taught web developer<br>🎮 FiveM resource developer<br>👨‍💼 Founder of: nanoscripts.tebex.io</h4>
+<h4 align="left">🎓Computer science student at Al Akhawayn University<br> 🖥️Software Engineer at neoCedrus<br> 🖥️Self taught web developer<br>🎮 FiveM resource developer<br>👨‍💼 Founder of: nanoscripts.tebex.io</h4>
 
 ###
 
